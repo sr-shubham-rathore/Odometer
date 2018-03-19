@@ -5,6 +5,5 @@ c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.csprojResolve
 c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.Form1.resources
 c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.Properties.Resources.resources
 c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.csproj.GenerateResource.Cache
-c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.csproj.CoreCompileInputs.cache
 c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.exe
 c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.pdb
