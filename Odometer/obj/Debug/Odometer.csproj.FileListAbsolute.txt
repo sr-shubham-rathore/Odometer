@@ -1,0 +1,10 @@
+c:\users\shubham\source\repos\Odometer\Odometer\bin\Debug\Odometer.exe.config
+c:\users\shubham\source\repos\Odometer\Odometer\bin\Debug\Odometer.exe
+c:\users\shubham\source\repos\Odometer\Odometer\bin\Debug\Odometer.pdb
+c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.csprojResolveAssemblyReference.cache
+c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.Form1.resources
+c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.Properties.Resources.resources
+c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.csproj.GenerateResource.Cache
+c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.csproj.CoreCompileInputs.cache
+c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.exe
+c:\users\shubham\source\repos\Odometer\Odometer\obj\Debug\Odometer.pdb
