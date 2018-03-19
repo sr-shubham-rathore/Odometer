@@ -51,6 +51,7 @@
             this.label1.Size = new System.Drawing.Size(93, 34);
             this.label1.TabIndex = 0;
             this.label1.Text = "label1";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
@@ -62,6 +63,7 @@
             this.label2.Size = new System.Drawing.Size(93, 34);
             this.label2.TabIndex = 1;
             this.label2.Text = "label2";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label3
             // 
@@ -72,6 +74,8 @@
             this.label3.Size = new System.Drawing.Size(93, 34);
             this.label3.TabIndex = 2;
             this.label3.Text = "label3";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // button1
             // 
@@ -87,7 +91,7 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Modern No. 20", 24F);
-            this.button2.Location = new System.Drawing.Point(370, 227);
+            this.button2.Location = new System.Drawing.Point(367, 227);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(87, 99);
             this.button2.TabIndex = 4;
@@ -98,12 +102,13 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Modern No. 20", 24F);
-            this.button3.Location = new System.Drawing.Point(233, 227);
+            this.button3.Location = new System.Drawing.Point(230, 227);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(87, 99);
             this.button3.TabIndex = 5;
             this.button3.Text = "Tick";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // Form1
             // 

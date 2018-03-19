@@ -112,7 +112,7 @@ namespace Odometer
             {
                 //throw new NotImplementedException();
                 Console.OpenStandardOutput('i');
-                tick++;
+                tick+=100;
                 int temp, l1, l2, l3;
                 temp = tick;
                 l3 = temp % 10;
@@ -133,6 +133,17 @@ namespace Odometer
         private void button2_Click(object sender, EventArgs e)
         {
             MyTimer_Tick10X(button1, e);
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MyTimer_Tick100X(button1, e);
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
 
         }
     }
