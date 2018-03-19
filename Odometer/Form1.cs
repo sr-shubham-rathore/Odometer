@@ -112,7 +112,7 @@ namespace Odometer
             {
                 //throw new NotImplementedException();
                 Console.OpenStandardOutput('i');
-                tick+=100;
+                tick+=105;
                 int temp, l1, l2, l3;
                 temp = tick;
                 l3 = temp % 10;
