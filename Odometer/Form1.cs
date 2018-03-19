@@ -84,5 +84,56 @@ namespace Odometer
 
             }
         }
+
+        private void MyTimer_Tick10X(object sender, EventArgs e)
+        {
+            {
+                //throw new NotImplementedException();
+                Console.OpenStandardOutput('i');
+                tick++;
+                int temp, l1, l2, l3;
+                temp = tick;
+                l3 = temp % 10;
+                temp = temp / 10;
+                label3.Text = l3.ToString();
+
+                l2 = temp % 10;
+                temp = temp / 10;
+                label2.Text = l2.ToString();
+
+                l1 = temp % 10;
+                temp = temp / 10;
+                label1.Text = l1.ToString();
+
+            }
+        }
+        private void MyTimer_Tick100X(object sender, EventArgs e)
+        {
+            {
+                //throw new NotImplementedException();
+                Console.OpenStandardOutput('i');
+                tick++;
+                int temp, l1, l2, l3;
+                temp = tick;
+                l3 = temp % 10;
+                temp = temp / 10;
+                label3.Text = l3.ToString();
+
+                l2 = temp % 10;
+                temp = temp / 10;
+                label2.Text = l2.ToString();
+
+                l1 = temp % 10;
+                temp = temp / 10;
+                label1.Text = l1.ToString();
+
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MyTimer_Tick10X(button1, e);
+
+        }
     }
 }
